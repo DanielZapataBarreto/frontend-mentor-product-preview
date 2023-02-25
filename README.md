@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/DanielZapataBarreto/frontend-mentor-product-preview](https://github.com/DanielZapataBarreto/frontend-mentor-product-preview)
+- Live Site URL: [https://danielzapatabarreto.github.io/frontend-mentor-product-preview/](https://danielzapatabarreto.github.io/frontend-mentor-product-preview/)
 
 ## My process
 
